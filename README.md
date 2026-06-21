@@ -1,8 +1,8 @@
 # Deep Neural Network Compression & CV
 
-> **EE Association (EEA), IIT Kanpur** | Prof. Koteswar Rao | Dec '25 – Apr '26
+> **EE Association (EEA), IIT Kanpur** | Dec '25 – Apr '26
 
-Implementation of the **[Deep Compression](https://arxiv.org/abs/1510.00149)** pipeline from:
+Implementation of the **[Deep Compression](https://arxiv.org/pdf/1510.00149)** pipeline from:
 
 > **"Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding"**  
 > Song Han, Huizi Mao, William J. Dally — ICLR 2016
@@ -180,4 +180,4 @@ python main.py --epochs 50 --prune-sparsity 0.85
 
 ## References
 
-1. Song Han, Huizi Mao, William J. Dally. *"Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding."* ICLR 2016. [arXiv:1510.00149](https://arxiv.org/abs/1510.00149)
+1. Song Han, Huizi Mao, William J. Dally. *"Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding."* ICLR 2016. [arXiv:1510.00149](https://arxiv.org/pdf/1510.00149)
